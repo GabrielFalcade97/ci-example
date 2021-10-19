@@ -21,6 +21,7 @@ describe('Utils', () => {
             expect(gerarNumeroAleatorio(-9, 8))
             .toBe(-1);
         });
+    });
 
 
     describe('acharCaracter', () => {
